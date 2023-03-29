@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32516.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KTechPassApp.UI", "KTechPassAppUI\KTechPassApp.UI.csproj", "{0CF1FBE6-BAEA-4107-A1F4-FA56B5DB66DD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KTechPassApp.API", "KTechPassAppAPI\KTechPassApp.API.csproj", "{DA9E4DC8-C018-4575-AFCD-D7177A388FB9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KTechPassApp.Data", "KTechPassApp.Data\KTechPassApp.Data.csproj", "{95764BE7-BB67-4920-A90B-CACEC114A219}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KTechPassApp.Services", "KTechPassApp.Services\KTechPassApp.Services.csproj", "{62843CE5-88FB-4D9C-9FFB-D36E1E4E2FC8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KTechPassApp.ViewModels", "KTechPassApp.ViewModels\KTechPassApp.ViewModels.csproj", "{4CB7BB8B-02C7-4967-AB04-7CD32E72F3E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CF1FBE6-BAEA-4107-A1F4-FA56B5DB66DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CF1FBE6-BAEA-4107-A1F4-FA56B5DB66DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CF1FBE6-BAEA-4107-A1F4-FA56B5DB66DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CF1FBE6-BAEA-4107-A1F4-FA56B5DB66DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA9E4DC8-C018-4575-AFCD-D7177A388FB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA9E4DC8-C018-4575-AFCD-D7177A388FB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA9E4DC8-C018-4575-AFCD-D7177A388FB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA9E4DC8-C018-4575-AFCD-D7177A388FB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95764BE7-BB67-4920-A90B-CACEC114A219}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95764BE7-BB67-4920-A90B-CACEC114A219}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95764BE7-BB67-4920-A90B-CACEC114A219}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95764BE7-BB67-4920-A90B-CACEC114A219}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62843CE5-88FB-4D9C-9FFB-D36E1E4E2FC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62843CE5-88FB-4D9C-9FFB-D36E1E4E2FC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62843CE5-88FB-4D9C-9FFB-D36E1E4E2FC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62843CE5-88FB-4D9C-9FFB-D36E1E4E2FC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CB7BB8B-02C7-4967-AB04-7CD32E72F3E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CB7BB8B-02C7-4967-AB04-7CD32E72F3E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CB7BB8B-02C7-4967-AB04-7CD32E72F3E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CB7BB8B-02C7-4967-AB04-7CD32E72F3E2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2399B8C4-D662-45A6-B01B-9912DEA6CA02}
+	EndGlobalSection
+EndGlobal
